@@ -1,2 +1,2 @@
 #!/bin/bash
-pleas help
+chgrp shool hello
