@@ -1,0 +1,3 @@
+#!/bin/bash
+export NUM=5.00\n
+echo this is $5.00\n
