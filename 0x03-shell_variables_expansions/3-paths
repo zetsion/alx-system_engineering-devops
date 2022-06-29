@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH
+echo $PASH | tr ":" "\n" | wc -l
