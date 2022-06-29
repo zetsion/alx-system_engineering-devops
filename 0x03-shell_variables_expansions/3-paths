@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $PASH | tr ":" "\n" | wc -l
+=======
+echo $PATH
+>>>>>>> ca3cab2b999b08a4c88ab972a3de3cfbfdbfb742
